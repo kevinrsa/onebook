@@ -34,6 +34,7 @@ about me
   * 主要项目：
     - MCU 服务器业务开发：h224 协议支持
     - MCU 服务器业务开发：对接云平台 http client& http server支持，rabbitmq支持
+    - MUC 服务器业务开发：会控执行错误提示,ccam框架
     - MUC 服务器业务开发：MCU业务级联
     - 其他七七八八业务功能开发
     
